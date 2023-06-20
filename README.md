@@ -16,4 +16,4 @@ This is another data analytics project using Python.
 This project is not open to contributions for these are private. But comments on each file are very much welcomed.
 
 ## Project status
-The projects that are uploaded here are done. However, another project might still be added in the future.
+The projects that are uploaded here are done.
